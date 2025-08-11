@@ -2,6 +2,12 @@
     font-size:small;
 }
 div {
+    width: 90vw;
+    height: 90wh;
     margin: 20px;
 }
-
+img {
+    max-width: 100%;
+    height: auto;
+    max-height: 100%;
+}
